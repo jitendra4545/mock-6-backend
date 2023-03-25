@@ -1,6 +1,9 @@
 {
-    "users": [
-      
+    "users": [{
+      "username":"jitendra",
+      "email":"jitendra@gmail.com" ,
+      "password":"jitendra"
+    }
     ],
     "recipes":[
       
